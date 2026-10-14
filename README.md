@@ -41,8 +41,6 @@ A horizontal bar chart compares total sales across Furniture, Office Supplies, a
 - **Bookcases** show negative profit, indicating a need to investigate costs, pricing, and discount strategies.
 - Monthly sales fluctuate, with visible peaks in September and November.
 
-*Note: Values and observations are based on the displayed dashboard. Further analysis of the underlying dataset is needed to validate business causes and seasonal patterns.*
-
 ## Business Recommendations
 
 - Investigate losses in Bookcases and review discounting, pricing, and operational costs.
