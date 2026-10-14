@@ -1,0 +1,7 @@
+Key Findings & Insights
+
+- Sales by Category: Technology leads with total sales of 839,893, followed by Furniture (754,748) and Office Supplies (731,893).
+- Sales by Region: The West region records the highest profit (approximately 110K), followed by East (95K), South (47K), and Central (40K).
+- Sales by Sub-category: Copiers generate the highest profit among the displayed sub-categories, while Bookcases show a negative profit, indicating a potential area for improvement.
+- Monthly Sales Trend: Sales fluctuate throughout the year, with noticeable peaks in September and November and a dip in October.
+- Business Recommendation: Focus on high-performing categories and profitable sub-categories, investigate losses from Bookcases, and analyze monthly sales fluctuations to improve overall profitability.
